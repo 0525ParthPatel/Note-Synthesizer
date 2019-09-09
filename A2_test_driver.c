@@ -1,36 +1,7 @@
 /*
  * CSC A48 - Assignment 2 - BSTs test driver
  * 
- * This code is provided to help you test and debug your
- * solution for assignment 2.
- * 
- * The tests below should be commented and un-commented as
- * needed, while you're implementing different parts of 
- * your assignment (just like A1 before).
- * 
- * As you know by now:
- * 
- * - This is just a SUBSET of the tests we will run on
- *   your solution. You're responsible for coming up with
- *   your own test cases and making sure your code works
- *   for any input we can throw at it.
- * - Passing all of the tests here does not mean your code
- *   is bug free, it just means it's solid and you can
- *   expect to get a solid mark in the assignment
- * - You should read the tests carefully and understand what
- *   they are testing for, and think about why that is
- *   important and what additional tests you should be doing.
- * - FOR SOME OF THE TESTS YOU HAVE TO CHECK THE OUTPUT
- *   AND MAKE SURE IT'S CORRECT (e.g. tree traversals
- *   can not be auto-checked using only your code, our
- *   auto-marker will test those by comparing your output
- *   with the solution we have). So make sure you CHECK
- *   CAREFULLY for those tests that your code does what
- *   it should
- *      (This may also be a way for us to make sure
- *       you understand the material well ;) )
- * 
- * (c) 2019 - F. Estrada & M. Ahmadzadeh
+ * This code is provided to help you test and debug
  */
 
 #include "BSTs_1005129157.c"
